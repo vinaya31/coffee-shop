@@ -1,0 +1,36 @@
+.nav-item{
+    font-style: italic;
+    margin-left: 30px;
+    font-weight: bold;
+    
+}
+.nav-item:hover{
+    background-color: #b2744c;
+    border-radius: 5px;
+}
+
+.navbar{
+    background-color: lightgray;
+}
+
+/* home section */
+
+.content{
+    position: absolute;
+    top: 45%;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+#btn{
+    width: 100px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: #b2744c;
+}
+
+

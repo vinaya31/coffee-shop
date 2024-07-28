@@ -1,0 +1,16 @@
+.Heading{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid #b2744c;
+}
+
+.card-title{
+    margin-left: 35%;
+    font-weight: bold;
+}
+
+.card-text{
+    margin-left: 35%;
+}

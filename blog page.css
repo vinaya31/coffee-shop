@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid #b2744c;
+}
+
+.heading span{
+    color: #b2744b;
+}

@@ -1,0 +1,35 @@
+.Heading{
+    position: absolute;
+    left: 35%;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.text{
+    position: absolute;
+    top: 75px;
+    left: 32%;
+    
+    
+}
+.Heading span{
+    color: #b2744c;
+}
+
+#about-btn{
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    color: #b2744c;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#about-btn:hover{
+    background-color: #b2744c;
+    color: white;
+}
